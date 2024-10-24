@@ -48,12 +48,12 @@ a {
 html {
     background-color:#000000;
     color:#00FF00;
-    font-size: 88.5%; /* (62.5/100) * 16px = 10px */
+    font-size: 30px; /* (62.5/100) * 16px = 10px */
     -webkit-text-size-adjust: none; /* for iOS Safari */
     text-size-adjust: none; /* for other mobile browsers */
   }
   body h1{
-    font-size: 50px !important;
+    font-size: 2rem !important;
   }
 
   :focus:not(:focus-visible) {
