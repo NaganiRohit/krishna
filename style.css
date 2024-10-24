@@ -53,7 +53,7 @@ html {
     text-size-adjust: none; /* for other mobile browsers */
   }
   body h1{
-    font-size: 88.5% !important;
+    font-size: 20px !important;
   }
 
   :focus:not(:focus-visible) {
